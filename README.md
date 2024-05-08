@@ -19,7 +19,7 @@
 </details>
 
 # 📕 발표 ppt
-<li><a href="https://docs.google.com/presentation/d/11HKjAZkDc91tOBDL0qSU8SxiCg49NlrvPLyDrEFGh34/edit?usp=sharing">발표 ppt 링크</a></li>
+<li><a href="https://docs.google.com/presentation/d/1hXfBbMgxHO4DQo2F8aG-RS9wfmCQZxc5/edit#slide=id.p1">발표 ppt 링크</a></li>
 
 # 🎞 시연 영상
 <li><a href="https://youtu.be/O7Ru2W8nMiY">사용자 페이지 링크</a></li>
