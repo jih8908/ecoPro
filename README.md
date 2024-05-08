@@ -22,8 +22,8 @@
 <li>여기에 ppt 링크 넣어둘 것</li>
 
 # 🎞 시연 영상
-<li>사용자: 여기에 유튜브 영상 링크 삽입</li>
-<li>관리자: 여기에 유튜브 영상 링크 삽입</li>
+<li>사용자: (https://www.youtube.com/watch?v=O7Ru2W8nMiY)</li>
+<li>관리자: https://www.youtube.com/watch?v=POTjf1pWeXM</li>
 
 # 🛠 활용 언어
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
