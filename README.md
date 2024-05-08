@@ -1,7 +1,7 @@
 # Eco Market (친환경 먹거리 판매 사이트)
 친환경 식품을 원하는 소비자를 위한 홈페이지
 
-![teamProForGithub](https://github.com/KDH94/teamProject/assets/28282851/385f6d53-75ad-4aba-a38d-c2d8cefda93e)
+![main-page](https://github.com/KDH94/teamProject/assets/28282851/778c6b85-825a-46c2-8f96-4b06eaaa2306)
 # 👨‍👩‍👦‍👦 Collaborators: 팀원 소개
 |이름|역할|GitHub 프로필|
 |------|---|---|
@@ -19,11 +19,11 @@
 </details>
 
 # 📕 발표 ppt
-<li>여기에 ppt 링크 넣어둘 것</li>
+<li><a href="https://docs.google.com/presentation/d/11HKjAZkDc91tOBDL0qSU8SxiCg49NlrvPLyDrEFGh34/edit?usp=sharing">발표 ppt 링크</a></li>
 
 # 🎞 시연 영상
-<li>사용자: (https://www.youtube.com/watch?v=O7Ru2W8nMiY)</li>
-<li>관리자: https://www.youtube.com/watch?v=POTjf1pWeXM</li>
+<li><a href="https://youtu.be/O7Ru2W8nMiY">사용자 페이지 링크</a></li>
+<li><a href="https://youtu.be/POTjf1pWeXM">관리자 페이지 링크</a></li>
 
 # 🛠 활용 언어
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
