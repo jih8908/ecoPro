@@ -2,6 +2,11 @@
 친환경 식품을 원하는 소비자를 위한 홈페이지
 
 ![main-page](https://github.com/KDH94/teamProject/assets/28282851/778c6b85-825a-46c2-8f96-4b06eaaa2306)
+
+<a href="http://13.125.153.106:8080/main.do">배포 사이트 링크</a>
+### Test용 아이디 및 비밀번호
+☞ admin / admin
+
 # 👨‍👩‍👦‍👦 Collaborators: 팀원 소개
 |이름|역할|GitHub 프로필|
 |------|---|---|
@@ -19,7 +24,7 @@
 </details>
 
 # 📕 발표 ppt
-<li><a href="https://docs.google.com/presentation/d/1hXfBbMgxHO4DQo2F8aG-RS9wfmCQZxc5/edit#slide=id.p1">발표 ppt 링크</a></li>
+<li><a href="https://docs.google.com/presentation/d/11HKjAZkDc91tOBDL0qSU8SxiCg49NlrvPLyDrEFGh34/edit?usp=sharing">발표 ppt 링크</a></li>
 
 # 🎞 시연 영상
 <li><a href="https://youtu.be/O7Ru2W8nMiY">사용자 페이지 링크</a></li>
